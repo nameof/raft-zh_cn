@@ -8,4 +8,6 @@ Raft一致性算法论文的中文翻译
 # 参考资料
 raft解读：https://www.sofastack.tech/projects/sofa-jraft/raft-introduction/
 
+Raft成员变更的工程实践：https://github.com/nameof/raft-zh_cn/blob/master/assets/Raft成员变更的工程实践.html
+
 可视化理解：https://github.com/benbjohnson/thesecretlivesofdata
